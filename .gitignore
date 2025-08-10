@@ -1,0 +1,21 @@
+# Build artifacts
+*.o
+*.ko
+*.mod.c
+*.symvers
+*.order
+*.cmd
+*.d
+*.tmp_versions
+Module.symvers
+
+# User binaries
+/user/configurator
+/user/filler
+/user/reader
+
+# Editor files
+*~
+*.swp
+.idea/
+.vscode/
